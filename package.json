@@ -6,13 +6,15 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node server.js",
-		"dev": "nodemon server.js"
+    "dev": "nodemon server.js"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "dependencies": {
     "@fortawesome/fontawesome": "^1.1.8",
+    "app": "^0.1.0",
+    "appjs": "^0.0.20",
     "body-parser": "^1.20.2",
     "bootstrap": "^5.2.3",
     "compression": "^1.7.4",
